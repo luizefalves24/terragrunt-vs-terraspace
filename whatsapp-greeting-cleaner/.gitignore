@@ -1,0 +1,6 @@
+# Fotos pessoais e resultados nunca vão para o git
+whatsapp_images/
+quarantine/
+*.csv
+.venv/
+__pycache__/

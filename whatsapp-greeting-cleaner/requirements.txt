@@ -1,0 +1,5 @@
+pillow>=10
+torch>=2.2
+transformers>=4.40
+# opcional, para --ocr (também precisa de: sudo apt install tesseract-ocr tesseract-ocr-por)
+pytesseract>=0.3.10
